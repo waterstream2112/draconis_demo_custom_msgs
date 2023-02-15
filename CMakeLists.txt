@@ -55,6 +55,8 @@ add_message_files(
   ImagePointcloudMsg.msg
   BoundingBoxMsg.msg
   ObjectDetectionMsg.msg
+  CloudGenerationCmdMsg.msg
+
 )
 
 ## Generate services in the 'srv' folder
